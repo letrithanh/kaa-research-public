@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_161"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="lib/kaa-java-ep-sdk-VUaCsUXGW3WbDZ-Kbe6vYNXKbg0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
